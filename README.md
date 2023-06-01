@@ -1,3 +1,4 @@
 # reproducibility_1
 ## Description
-Reproducible research with R course - day2 practice
+This repository is used to demonstrate.
+The features of Github branches.
